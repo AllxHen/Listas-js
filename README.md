@@ -1,1 +1,1 @@
-# lista com todos os exercícios de js
+# Lista com todos os exercícios de js
